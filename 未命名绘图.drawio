@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T03:28:14.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QtDbaoy_zWBptzqLZlFx" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T03:31:23.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aPFv0GF2DzZmxiM_LWRU" version="21.3.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1195" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,6 +37,11 @@
         <mxCell id="kKA5we4sD9wSi-h5ntZp-3" value="动汇运动交流平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKA5we4sD9wSi-h5ntZp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kKA5we4sD9wSi-h5ntZp-4" target="kKA5we4sD9wSi-h5ntZp-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kKA5we4sD9wSi-h5ntZp-4" value="文章模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,6 +77,9 @@
               <mxPoint x="970" y="150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kKA5we4sD9wSi-h5ntZp-19" value="发布文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
